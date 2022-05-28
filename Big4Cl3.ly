@@ -42,7 +42,7 @@
         \compressMMRests{R1*4}
         r8[c''-^\f] r4 c''16-^[c''-^ r8] r4 |
         r8[c''16-^ c''-^] ees''8-^[r] r[ees''16-^ ees''-^] r4 |
-        ees''16-^[ees''-^ r8] r4 ees''16-^ ees''-^ ees''-^ ees''-^ r4 |
+        ees''16-^[ees''-^ r8] r4 ees''16-^ ees''-^ f''-^ f''-^ r4 |
         r8[ees''16-^ ees''-^] f''-^[f''-^ r8] r ees''-^ f''16-^[f''-^ r8] |
     \mark \markup{\box "31"}
         R1|
