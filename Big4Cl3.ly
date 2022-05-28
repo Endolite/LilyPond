@@ -81,7 +81,7 @@
         >> 
     \mark \markup{\box "51"}
       \time 3/4
-        gis8-.^\markup{\box tutti} f'16(d') r8[a-.] f16[(fis) r8] |
+        gis8-.\f^\markup{\box tutti} f'16(d') r8[a-.] f16[(fis) r8] |
         c'8-. a'16(gis') r8[ees'-.] c''16[(d'') r8] |
       \time 4/4
         c'16(d' ees' f' fis' g' gis' a' \tuplet 6/4{b' c'' cis'' d'' ees'' e''} fis''4~)|
@@ -127,10 +127,10 @@
       \time 5/4
         fis4.-> fis8-. r4 g4.-> fis8-.|
       \time 4/4
-        r8[g-. r fis-.] r e!4.->|
+        r8[g-.\< r fis-.] r e!4.->|
     \mark \markup{\box 82}
       \time 5/4
-        r2 c''2.\ff
+        r2\! c''2.\ff
       \time 4/4
         d'4 ees' c''2~|
       \time 5/4
