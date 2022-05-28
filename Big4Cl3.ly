@@ -15,7 +15,7 @@
       \time 3/4
         r8 [g8-.\f] fis'16[(ees') r8] r4 |
         R1 * 3/4|
-        r8 [g8-.\f] fis'16[(ees') r8] r4 |
+        r8 [g8-.] fis'16[(ees') r8] r4 |
       \time 4/4
         r4 bes16[(c') r8] r4 ees'16[(c') r8] |
       \time 3/4
@@ -142,9 +142,9 @@
       \time 4/4
         g'2 a4 g'|
       \time 5/4
-        fis1 g8 f|
+        fis'1 g8 f'|
       \time 4/4
-        ees'2 f8 d ees'4~|
+        ees'2 f8 d' ees'4~|
       \time 5/4
         ees'4. r8 f4 ees' d'~|
       \time 3/4
@@ -152,7 +152,7 @@
     \mark \markup{\box 92}
         r8 [g8-.\f] fis'16[(ees') r8] r4 |
         R1 * 3/4|
-        r8 [g8-.\f] fis'16[(ees') r8] r4 |
+        r8 [g8-.] fis'16[(ees') r8] r4 |
       \time 4/4
         r4 bes16[(c') r8] r4 ees'16[(c') r8] |
       \time 3/4
@@ -195,7 +195,7 @@
         d'2. |
     \mark \markup{\box "132"}
       \time 4/4
-        r8[fis-.] ees'16[(c') r8] g-. fis''16(ees') r8[bes-.] |
+        r8[fis-.] ees'16[(c') r8] g-. fis'16(ees') r8[bes-.] |
         a'16[(g') r8] ees'8-. c''16(d'') r8[fis'-.] ees''16[(c'') r8] |
         g'8-. fis''16(ees'') r8[bes'-.] a''16[(g'') r8] ees''8-. c'''16(d''') |
         r8[fis''-.] ees'''16[(c''') r8] g''-. d'''16(e''') r8[f''-.] |
